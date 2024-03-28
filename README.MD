@@ -1,4 +1,4 @@
-# Compte Rendu - TP2(J2EE)
+# Java Spring App - TP2(J2EE)
 
 * ###### Générer un projet Spring Initializer incluant les dépendances JPA, H2, Spring Web et Lombok.
 
